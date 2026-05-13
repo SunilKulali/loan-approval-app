@@ -197,7 +197,14 @@ Open your browser at `http://localhost:8501` ✅
 ---
 
 ## 📦 requirements.txt
-
+streamlit>=1.32.0
+scikit-learn>=1.4.0
+pandas>=2.0.0
+numpy>=1.26.0
+joblib>=1.3.0
+xgboost>=2.0.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
 
 ---
 
@@ -222,7 +229,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋 Author
 
-**Your Name**
+**SUNIL KULALI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sunilkulali)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/SunilKulali)
@@ -230,17 +237,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-⭐ **If you found this project helpful, please give it a star!** ⭐
-
-## 🚀 Deploy to Streamlit Community Cloud (Free)
-
-1. Upload this entire folder to a **GitHub repository**
-2. Go to https://share.streamlit.io
-3. Sign in with GitHub
-4. Click **New app** → select your repo → select `app.py`
-5. Click **Deploy**
-
-Your app will be live at: `https://yourname-appname.streamlit.app`
 
 ## 💻 Run Locally
 ```bash
