@@ -196,17 +196,7 @@ Open your browser at `http://localhost:8501` ✅
 
 ---
 
-## 📦 requirements.txt
-streamlit>=1.32.0
-scikit-learn>=1.4.0
-pandas>=2.0.0
-numpy>=1.26.0
-joblib>=1.3.0
-xgboost>=2.0.0
-matplotlib>=3.8.0
-seaborn>=0.13.0
 
----
 
 ## 🔮 Future Improvements
 
